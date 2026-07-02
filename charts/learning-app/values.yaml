@@ -1,6 +1,6 @@
 image:
   repository: skasthuri2014/learning-app
-  tag: "02c4b46"
+  tag: "1999f74"
   pullPolicy: Always
 
 replicas: 4
